@@ -50,9 +50,10 @@ minikube dashboard
 
 Vscode :
 ```bash
+git init
+git remote add origin https:.......
 git add .
 git commit -m "descriptif"
-git remote add origin git@github.com "nom_utilisateur/image-nginx"
 git push -u origin master
  
 ```
